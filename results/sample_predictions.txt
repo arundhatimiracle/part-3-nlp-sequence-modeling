@@ -1,1 +1,11 @@
+Sample Prediction 1:
+Text: "This movie was amazing and very interesting"
+Predicted Label: Positive
 
+Sample Prediction 2:
+Text: "I did not enjoy the movie at all"
+Predicted Label: Negative
+
+Sample Prediction 3:
+Text: "The service was average"
+Predicted Label: Neutral
